@@ -3,9 +3,3 @@ Just my Az Arm Templates
 
 [![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fsteveramos21%2FAZTemplates%2Fmain%2FWindowsVMTemplates%2FFirstVMTemplate.json
 )
-
-![Deploy to Azure](https://aka.ms/deploytoazurebutton)
-
-https://raw.githubusercontent.com/steveramos21/AZTemplates/main/WindowsVMTemplates/FirstVMTemplate.json
-
-https%3A%2F%2Fraw.githubusercontent.com%2Fsteveramos21%2FAZTemplates%2Fmain%2FWindowsVMTemplates%2FFirstVMTemplate.json
