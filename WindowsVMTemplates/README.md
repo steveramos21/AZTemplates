@@ -6,7 +6,7 @@ Just my Az Arm Templates
 <a href="https://azuredeploy.net/
    repository=https://github.com/steveramos21/AZTemplates.git"
    target="_blank">
-   <img src="http://azuredeploy.net/deploybutton.png"/>
+   <img src="https://aka.ms/deploytoazurebutton"/>
 </a>
 
 [![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https://github.com/steveramos21/AZTemplates/blob/main/WindowsVMTemplates/FirstVMTemplate.json)
