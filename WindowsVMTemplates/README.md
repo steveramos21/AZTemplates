@@ -8,3 +8,6 @@ Just my Az Arm Templates
    target="_blank">
    <img src="http://azuredeploy.net/deploybutton.png"/>
 </a>
+
+[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https://github.com/steveramos21/AZTemplates/blob/main/WindowsVMTemplates/FirstVMTemplate.json)
+
