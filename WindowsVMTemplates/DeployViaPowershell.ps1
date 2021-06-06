@@ -10,3 +10,4 @@ $setSubscription
 
 New-AzResourceGroupDeployment -Name VMtepmlate -ResourceGroupName TempResources `
 -TemplateFile ..\GitAZTemplate\WindowsVMTemplates\FirstVMTemplate.json -verbose
+
