@@ -5,13 +5,13 @@
         "VMName": {
             "type": "string",
             "metadata": {
-                "description": "description"
+                "description": "Name of VM"
             }
         },
         "StorageAccount": {
             "type": "string",
             "metadata": {
-                "description": "Storage Account"
+                "description": "Name of Storage Account"
             },
             "defaultValue": "Standard_LRS"
         },
